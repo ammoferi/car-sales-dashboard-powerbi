@@ -77,15 +77,6 @@ Displays:
 ---
 
 ## Key Insights
-- SUVs generated the highest sales among body styles
-- Pale White vehicles contributed significantly to sales
-- Certain dealer regions consistently outperformed others
-- Sales trends peaked around week 35
-- Chevrolet and Ford ranked among top-performing companies
-
----
-
-## Key Insights
 - Total car sales reached **$371.2M**, with **YTD sales increasing by $70.8M**, representing a **23.59% year-over-year growth**.
 - The dealership sold **13.26K cars YTD**, an increase of **2.62K cars**, representing **19.73% growth** compared to the previous year.
 - The average vehicle price was **$28.0K**, with a slight decline of **$0.22K**, representing a **-0.79% YOY change**.
@@ -94,6 +85,8 @@ Displays:
 - Chevrolet generated the highest company sales among visible brands, with **$27.1M in YTD sales** and **1,043 cars sold**.
 - Ford followed closely with **$25.4M in YTD sales** and **886 cars sold**.
 - Weekly sales peaked at approximately **$14.9M**, showing the strongest sales activity around the mid-to-late year period.
+  
+---
 
 ## Skills Demonstrated
 - Data Cleaning
